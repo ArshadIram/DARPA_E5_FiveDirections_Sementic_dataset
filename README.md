@@ -1,4 +1,3 @@
-# DARPA_E5_FiveDirections_Sementic_dataset
 
 # DARPA FiveDirections E5 → Semantic Endpoint Telemetry Pipeline
 
