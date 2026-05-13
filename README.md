@@ -448,7 +448,7 @@ bridging the gap between:
 - provenance-based cyber datasets
 - endpoint telemetry analytics
 - semantic event abstraction
-- sequence-based anomaly detection systems like DeepCASE
+- sequence-based anomaly detection systems 
 
 ---
 
