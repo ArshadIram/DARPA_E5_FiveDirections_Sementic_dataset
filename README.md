@@ -48,7 +48,7 @@ Telemetry Source:
 
 The goal of this project is to convert low-level provenance graph records into semantic endpoint telemetry for:
 
-- DeepCASE preprocessing
+- preprocessing
 - behavioral sequence learning
 - anomaly detection
 - cyber threat hunting
