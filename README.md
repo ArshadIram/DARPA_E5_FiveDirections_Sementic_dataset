@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project converts raw DARPA Transparent Computing FiveDirections E5 provenance data into semantic endpoint telemetry suitable for behavioral sequence modeling with DeepCASE.
+This project converts raw DARPA Transparent Computing FiveDirections E5 provenance data into semantic endpoint telemetry suitable for behavioral sequence modeling.
 
 The original dataset contains low-level provenance CDM (Common Data Model) records stored as Avro `.bin.*` files. These records contain fragmented UUID-based graph relationships distributed across multiple object tables.
 
